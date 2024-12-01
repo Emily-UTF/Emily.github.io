@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <p>ODS 4: Estudia Languages</p>
   <p>Site que atende a ODS 4, ensinando as línguas Inglês e Espanhol, dando acesso a materiais de estudo e exercícios.</p>
   <p>Para ter acesso a exercícios, deve-se criar um cadastro e login</p>
 </div>
@@ -19,9 +18,9 @@
 
 ## 💻 Visão Geral
 
-Ao entrar no site, o usuário tem a escolha de acessar os materiais de espanhol e inglês no menu.
-Ao clicar em uma das línguas escolhidas, o usuário é transferido a área de login, podendo criar um cadastro, caso ainda não tenha uma conta no site.
-No projeto 1, temos apenas uma página de materiais e exercícios simples, contendo conteúdo básico, servindo apenas de exemplo. Como será feito o acesso a conteúdos e exercícios, ainda depende do conteúdo de JavaScript que será aprendido.
+<p>Ao entrar no site, o usuário tem a escolha de acessar os materiais de espanhol e inglês no menu.</p>
+<p>Ao clicar em uma das línguas escolhidas, o usuário é transferido a área de login, podendo criar um cadastro, caso ainda não tenha uma conta no site.</p>
+<p>No projeto 1, temos apenas uma página de materiais e exercícios simples, contendo conteúdo básico, servindo apenas de exemplo. Como será feito o acesso a conteúdos e exercícios, ainda depende do conteúdo de JavaScript que será aprendido.</p>
 
 ## 💻 Projeto 1
 
