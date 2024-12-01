@@ -13,8 +13,8 @@
 
 ## 📖 Índice
 
-- [Visão Geral](#visão-geral)
-- [Projeto](#projeto)
+- [Visão Geral](#-visão-geral)
+- [Projeto](#-projeto)
 
 ## 💻 Visão Geral
 
