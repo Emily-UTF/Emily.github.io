@@ -14,7 +14,7 @@
 ## 📖 Índice
 
 - [Visão Geral](#visão-geral)
-- [Projeto 1](#projeto-1)
+- [Projeto](#projeto)
 
 ## 💻 Visão Geral
 
@@ -22,7 +22,7 @@
 <p>Ao clicar em uma das línguas escolhidas, o usuário é transferido a área de login, podendo criar um cadastro, caso ainda não tenha uma conta no site.</p>
 <p>No projeto 1, temos apenas uma página de materiais e exercícios simples, contendo conteúdo básico, servindo apenas de exemplo. Como será feito o acesso a conteúdos e exercícios, ainda depende do conteúdo de JavaScript que será aprendido.</p>
 
-## 💻 Projeto 1
+## 💻 Projeto
 
 O que pode ser acessado no Projeto 1:
 
@@ -34,5 +34,9 @@ O que pode ser acessado no Projeto 1:
 - Recuperar Senha (Página para colocar email de recuperação e confirmar a nova senha: Ambos precisam de JavaScript para a implementação)
 
 O funcionamento de algumas páginas ainda depende do JavaScript e dependendo do que for aprendido, precisará de mudanças ou novas páginas podem surgir.
+
+O que pode ser acessado no Projeto 2:
+
+- Depende do conteúdo que será estudado
 
 ---
