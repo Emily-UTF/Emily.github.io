@@ -152,14 +152,14 @@ section {
 
 /* Ingles */
 .MatIng {
-    background-image: url('../figs/ingM.jpeg'); 
+    background-image: url('../figs/ingM.png'); 
     background-size: cover; 
     background-position: center; 
     color: black;
 }
 
 .ExIng {
-    background-image: url('../figs/ingE.jpg'); 
+    background-image: url('../figs/ingE.png'); 
     background-size: cover; 
     background-position: center; 
     color: black;
