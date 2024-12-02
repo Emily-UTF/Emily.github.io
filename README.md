@@ -15,6 +15,7 @@
 
 - [Visão Geral](#-visão-geral)
 - [Projeto](#-projeto)
+- [Aluno](#-aluno)
 
 ## 💻 Visão Geral
 
@@ -37,6 +38,9 @@ O funcionamento de algumas páginas ainda depende do JavaScript e dependendo do 
 
 O que pode ser acessado no Projeto 2:
 
-- Depende do conteúdo que será estudado
-🚧
----
+- Depende do conteúdo que será estudado 🚧
+
+## 💻 Aluno
+<p>Nome: Emily Miho Yoshizawa</p>
+<p>RA: 2417707</p>
+
