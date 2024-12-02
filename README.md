@@ -9,6 +9,7 @@
 <div align="center">
   <p>Site que atende a ODS 4, ensinando as línguas Inglês e Espanhol, dando acesso a materiais de estudo e exercícios.</p>
   <p>Para ter acesso a exercícios, deve-se criar um cadastro e login</p>
+  <p>Público alvo: Estudantes</p>
 </div>
 <div align="center">Acesse o projeto <a href="https://emily-utf.github.io/Emily.github.io/">AQUI</a> </div>
 
