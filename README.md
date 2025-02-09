@@ -29,17 +29,17 @@
 O que pode ser acessado no Projeto 1:
 
 - Página inicial
-- Cadastro (Seu funcionamento dependerá do JavaSript)
-- Login (Seu funcionamento dependerá do JavaSript)
-- Página de materiais (O material básico não depende de Login)
-- Página de exercícios (Depende do Login e JavaScript para ser acessada, visto que é conteúdo para aqueles que tem cadastro)
-- Recuperar Senha (Página para colocar email de recuperação e confirmar a nova senha: Ambos precisam de JavaScript para a implementação)
-
-O funcionamento de algumas páginas ainda depende do JavaScript e dependendo do que for aprendido, precisará de mudanças ou novas páginas podem surgir.
+- Cadastro 
+- Login 
+- Página de materiais 
+- Página de exercícios 
+- Recuperar Senha 
 
 O que pode ser acessado no Projeto 2:
 
-- Depende do conteúdo que será estudado 🚧
+- Página de admin
+- Mudanças no CSS
+- Criação do script com todas as funcionalidades da página admin
 
 ## 💻 Aluno
 <p>Nome: Emily Miho Yoshizawa</p>
